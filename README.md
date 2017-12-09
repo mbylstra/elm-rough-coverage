@@ -21,4 +21,4 @@ test/BarTest.elm src/Bar.elm
 test/BazTest.elm src/Baz.elm
 etc...
 ```
-Then just run elm-rough-coverage in the same directory that has the elm-rough-coverate.txt file (usually the root of the project)
+Then just run `elm-rough-coverage` in the same directory that has the `elm-rough-coverate.txt` file (usually the root of the project)
