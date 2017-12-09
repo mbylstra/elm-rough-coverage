@@ -1,12 +1,12 @@
 # elm-rough-coverage
-A very simplistic test coverage report generator
+A very simplistic test coverage report generator.
 
 In the absense of the test coverage package for Elm, I present this very simplistic test coverage generator. It tries to at least
 answer the question: "Which functions did I forget to write tests for?". It's meant to help remind you to write tests for all of your functions.
 It basically just parses function names from a source file, and searches for them in the corresponding test file - that's it!
 
 ## Installation
-npm install -g elm-rough-coverage
+`npm install -g elm-rough-coverage`
 
 
 ## Usage
