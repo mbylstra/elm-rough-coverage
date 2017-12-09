@@ -1,0 +1,19 @@
+{
+  "name": "elm-rough-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elm-rough-coverage.js",
+  "bin": {
+    "elm-rough-coverage": "./elm-rough-coverage.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "command-line-args": "^4.0.7"
+  },
+  "preferGlobal": "true"
+}
